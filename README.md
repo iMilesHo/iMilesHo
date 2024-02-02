@@ -26,7 +26,7 @@ I’m a first-year CS Master's student at **McMaster University**, Canada, and r
 
 ### :microscope: Tech && Tools Preference
 
-![skillicons](https://skillicons.dev/icons?i=html,css,js,ts,java,py,c,cpp,kotlin,go,bash,nodejs,mysql,redis,mongodb,sqlite,postgres,vue,react,flask,django,nginx,spring,selenium,git,maven,gradle,docker,linux,github,gitlab,heroku,aws)
+![skillicons](https://skillicons.dev/icons?i=html,css,js,ts,java,py,c,cpp,swift,bash,nodejs,mysql,mongodb,react,flask,django,nginx,git,docker,linux,github,gitlab,aws)
 
 ### :mailbox: How to reach me:
 
