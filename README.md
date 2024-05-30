@@ -20,13 +20,12 @@ Here are some ideas to get you started:
 I’m a first-year CS Master's student at **McMaster University**, Canada, and received my CS Bachelor's degree from Beijing Jiaotong University, China. I am open to the **SDE/SWE Co-op position** starting from **Sept 2024**. I hope to be a **Full-stack Developer** in the future.
 
 - 🤔 I'm looking for 2024 Co-op / Internship / New Grad / Junior Software Developer opportunities
-- :seedling: I’m learning ![badge_javascript] & ![badge_react].
 - ☕ Coffee Chat: [https://www.buymeacoffee.com/milesho](https://www.buymeacoffee.com/milesho)
 - 📫 Feel free to reach me at: imilesho@gmail.com
 
 ### :microscope: Tech && Tools Preference
 
-![skillicons](https://skillicons.dev/icons?i=html,css,js,ts,java,py,c,cpp,swift,bash,nodejs,mysql,mongodb,react,flask,django,nginx,git,docker,linux,github,gitlab,aws)
+![skillicons](https://skillicons.dev/icons?i=swift,py,c,cpp,bash,html,css,js,ts,java,nodejs,mysql,mongodb,react,flask,django,nginx,git,docker,linux,github,gitlab,aws)
 
 ### :mailbox: How to reach me:
 
