@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 -->
 
 
-I’m a first-year CS Master's student at **McMaster University**, Canada, and received my CS Bachelor's degree from Beijing Jiaotong University, China. I am open to the **SDE/SWE Co-op position** starting from **Sept 2024**. I hope to be a **Full-stack Developer** in the future.
+I’m a first-year CS Master's student at **McMaster University**, Canada, and received my CS Bachelor's degree from Beijing Jiaotong University, China. I am open to the **SDE/SWE Co-op position**. I hope to be a **C++/iOS** in the future.
 
-- 🤔 I'm looking for 2024 Co-op / Internship / New Grad / Junior Software Developer opportunities
-- ☕ Coffee Chat: [https://www.buymeacoffee.com/milesho](https://www.buymeacoffee.com/milesho)
+- 🤔 I'm looking for Internship / New Grad / Junior Software Developer opportunities
 - 📫 Feel free to reach me at: imilesho@gmail.com
 
 ### :microscope: Tech && Tools Preference
@@ -37,7 +36,6 @@ I’m a first-year CS Master's student at **McMaster University**, Canada, and r
 
 
 <!-- Links -->
-[blog]: https://imilesho.github.io/
 [e-mail]: mailto:imilesho@gmail.com
 [github]: https://github.com/iMilesHo
 
