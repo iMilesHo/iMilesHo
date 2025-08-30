@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Lyle (Miles) He
+# Hi there 👋 I'm Lyle He
 
 <div align="center">
 
