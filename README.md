@@ -1,14 +1,8 @@
 # Hi there 👋 I'm Lyle (Miles) He
 
-</div>
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iMilesHo&show_icons=true&theme=default&hide_border=true&count_private=true)ign="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=iMilesHo&color=blue&style=flat)
+### 🌐 [**View My Portfolio →**](https://yuanlai-portfolio.pages.dev)
 
 </div>
 
@@ -17,12 +11,6 @@
 I'm a software engineer specializing in **C/C++ systems programming** and **AI/Machine Learning**. Currently, I'm a Master of Engineering student at **McMaster University** (GPA 4.0/4.0), focusing on Systems and Technology.
 
 I am passionate about building robust, high-performance software at the intersection of low-level programming and AI. I have hands-on experience in embedded systems (Linux/QNX), automotive networking software, and developing intelligent applications using LLMs and Retrieval-Augmented Generation (RAG).
-
-<div align="center">
-
-### 🌐 [**View My Portfolio →**](https://yuanlai-portfolio.pages.dev)
-
-</div>
 
 ### 🎯 Current Status
 
@@ -41,7 +29,7 @@ I am passionate about building robust, high-performance software at the intersec
 
 </div>
 
-## � GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
