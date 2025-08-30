@@ -35,8 +35,6 @@ I am passionate about building robust, high-performance software at the intersec
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iMilesHo&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iMilesHo&layout=compact&theme=default&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iMilesHo&theme=default&hide_border=true)
 
 </div>
