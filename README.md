@@ -1,41 +1,34 @@
 # Lyle
-### Hi there 👋
 
-<!--
-**iMilesHo/iMilesHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I'm Yuanlai (Lyle) He
 
-Here are some ideas to get you started:
+I'm a software engineer specializing in **C/C++ systems programming** and **AI/Machine Learning**. Currently, I'm a Master of Engineering student at **McMaster University** (GPA 4.0/4.0), focusing on Systems and Technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about building robust, high-performance software at the intersection of low-level programming and AI. I have hands-on experience in embedded systems (Linux/QNX), automotive networking software, and developing intelligent applications using LLMs and Retrieval-Augmented Generation (RAG).
 
+- � **M.Eng. in Systems and Technology** @ McMaster University (2023-2025)
+- 💼 **Networking Software Development Intern** @ Ford Motor Company (2024-2025)
+- 🚀 Actively seeking **Full-time** opportunities in **Systems Programming** or **AI/ML Engineering**.
+- 📫 Feel free to reach me at: **imilesho@gmail.com**
+- 🌐 My Portfolio: [yuanlai-portfolio.pages.dev](https://yuanlai-portfolio.pages.dev)
 
-I’m a first-year CS Master's student at **McMaster University**, Canada, and received my CS Bachelor's degree from Beijing Jiaotong University, China. I am open to the **SDE/SWE Co-op position**. I hope to be a **C++/iOS** in the future.
+---
 
-- 🤔 I'm looking for Internship / New Grad / Junior Software Developer opportunities
-- 📫 Feel free to reach me at: imilesho@gmail.com
+### 🛠️ Tech Stack
 
-### :microscope: Tech && Tools Preference
+![skillicons](https://skillicons.dev/icons?i=c,cpp,linux,python,pytorch,swift,nextjs,react,typescript,tailwind,fastapi,aws,docker,firebase,postgres)
 
-![skillicons](https://skillicons.dev/icons?i=swift,py,c,cpp,bash,html,css,js,ts,java,nodejs,mysql,mongodb,react,flask,django,nginx,git,docker,linux,github,gitlab,aws)
-
-### :mailbox: How to reach me:
+### 🔗 Connect with Me
 
 - GitHub: [imilesho][github]
 - Email: [imilesho@gmail.com][e-mail]
 
-### 🛳 &nbsp;Your ticket ID for this visit
-<img src="https://profile-counter.glitch.me/imilesho/count.svg" />
+### � &nbsp;Profile Views
 
+![Profile Views](https://komarev.com/ghpvc/?username=iMilesHo&color=blue&style=flat)
 
 <!-- Links -->
+
 [e-mail]: mailto:imilesho@gmail.com
 [github]: https://github.com/iMilesHo
 
@@ -44,6 +37,7 @@ I’m a first-year CS Master's student at **McMaster University**, Canada, and r
 [skills]: https://skillicons.dev/icons?i=html,css,js,ts,java,py,c,cpp,swift,bash,nodejs,mysql,mongodb,react,flask,django,nginx,git,docker,linux,github,gitlab,aws
 
 <!-- badge Links -->
+
 [badge_angular]: https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=ffffff
 [badge_c]: https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=ffffff
 [badge_c-sharp]: https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=ffffff
