@@ -14,13 +14,21 @@
   </picture>
 </a>
 
-A systems programmer who codes for innovation.
+A Software Developer who codes for innovation.
 
-- 🍁 M.Eng Student @ McMaster, based in Ontario, Canada
-- 🚗 Previous Networking SWE Intern @ Ford Motor Company
-- 💻 Previous Software Engineer @ Various Tech Companies
-- 🧑🏻‍💻 Systems programming is my passion and part of my life
+- 🍁 M.Eng CS Student @ McMaster, based in ON, Canada
+- 🚗 Previous SWE Intern @ Ford Motor Company
+- 💻 Previous SWE @ Various Tech Companies
+- 🧑🏻‍💻 Programming is my passion and part of my life
 - 🌐 Find out more about me at my [Homepage](https://yuanlai-portfolio.pages.dev)
+
+### 🛠️ Tech Stack
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 <!--
 
