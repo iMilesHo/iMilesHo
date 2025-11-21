@@ -16,9 +16,9 @@
 
 A Software Developer who codes for innovation.
 
-- 🍁 M.Eng CS Student @ McMaster, based in ON, Canada
-- 🚗 Previous SWE Intern @ Ford Motor Company
-- 💻 Previous SWE @ Various Tech Companies
+- 🍁 M.Eng CS Student @ McMaster
+- 🚗 Ex-SWE Intern @ Ford, based in Ottawa
+- 💻 EX-SWE @ Various Tech Companies
 - 🧑🏻‍💻 Programming is my passion and part of my life
 - 🌐 Find out more about me at my [Homepage](https://yuanlai-portfolio.pages.dev)
 
