@@ -1,36 +1,33 @@
-<table>
-<tr>
-<td valign="top" width="50%">
-
 ## Hi, I'm Lyle He
 
-A software developer who codes for innovation.
+<a href="#stats" align="right">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=iMilesHo&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=github_dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=iMilesHo&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=default"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img align="right" alt="stats" width="480px"/>
+  </picture>
+</a>
 
-• 🍁 **M.Eng CS Student** @ McMaster University, based in Ontario, Canada  
-• 🚗 **Previous Networking SWE Intern** @ Ford Motor Company  
-• 💼 **Previous Software Engineer** @ Various Tech Companies  
-• 🧑‍💻 Programming is my passion
-• 🌐 Find out more about me at my [**Homepage**](https://yuanlai-portfolio.pages.dev)
+A systems programmer who codes for innovation.
 
-### 🛠️ Tech Arsenal
+- 🍁 M.Eng Student @ McMaster, based in Ontario, Canada
+- 🚗 Previous Networking SWE Intern @ Ford Motor Company
+- 💻 Previous Software Engineer @ Various Tech Companies
+- 🧑🏻‍💻 Systems programming is my passion and part of my life
+- 🌐 Find out more about me at my [Homepage](https://yuanlai-portfolio.pages.dev)
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<!--
 
-</td>
-<td valign="top" width="50%">
+How to reach me:
 
-### Lyle He's GitHub Stats
+- 🐙 GitHub: [iMilesHo](https://github.com/iMilesHo)
+- 📧 Email: [imilesho@gmail.com](mailto:imilesho@gmail.com)
+-->
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iMilesHo&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
-
-</div>
-
-</td>
-</tr>
-</table>
+---
