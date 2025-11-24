@@ -19,12 +19,11 @@ A Software Developer who codes for innovation.
 
 <br/>
 
-<img src="https://img.shields.io/github/followers/iMilesHo?style=flat-square&logo=github&logoColor=white&color=blue" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/iMilesHo?style=flat-square&logo=github&logoColor=white&color=yellow" alt="Stars"/>
+<img src="https://img.shields.io/github/followers/iMilesHo?style=flat&logo=github&logoColor=white&color=blue" alt="Followers"/><img src="https://img.shields.io/github/stars/iMilesHo?style=flat&logo=github&logoColor=white&color=yellow" alt="Stars"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=iMilesHo&style=flat-square&color=brightgreen" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=iMilesHo&style=flat&color=brightgreen" alt="Profile Views"/>
 
 </td>
 </tr>
