@@ -1,8 +1,13 @@
 ## Hi, I'm Lyle He
 
-<table border="0" cellpadding="0" cellspacing="0" style="border: none;">
-<tr>
-<td width="60%" style="border: none; vertical-align: top;">
+<p align="right">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iMilesHo&theme=github_dark" alt="GitHub Profile" width="380"/>
+  <br/>
+  <img src="https://img.shields.io/github/followers/iMilesHo?style=flat&logo=github&logoColor=white&color=blue" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/iMilesHo?style=flat&logo=github&logoColor=white&color=yellow" alt="Stars"/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=iMilesHo&style=flat&color=brightgreen" alt="Profile Views"/>
+</p>
 
 A Software Developer who codes for innovation.
 
@@ -11,22 +16,6 @@ A Software Developer who codes for innovation.
 - 💻 EX-SWE @ Various Tech Companies
 - 🧑🏻‍💻 Programming is my passion
 - 🌐 Find out more about me at my [Homepage](https://yuanlai-portfolio.pages.dev)
-
-</td>
-<td width="40%" style="border: none; vertical-align: top;">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iMilesHo&theme=github_dark" alt="GitHub Profile" width="100%"/>
-
-<br/>
-<img src="https://img.shields.io/github/followers/iMilesHo?style=flat&logo=github&logoColor=white&color=blue" alt="Followers"/>
-<br/>
-<img src="https://img.shields.io/github/stars/iMilesHo?style=flat&logo=github&logoColor=white&color=yellow" alt="Stars"/>
-<br/>
-<img src="https://komarev.com/ghpvc/?username=iMilesHo&style=flat&color=brightgreen" alt="Profile Views"/>
-
-</td>
-</tr>
-</table>
 
 ### 🛠️ Tech Stack
 
